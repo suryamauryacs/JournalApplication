@@ -1,3 +1,4 @@
+
 package com.sangamwirpo.JournalApplication;
 
 import org.springframework.boot.SpringApplication;
@@ -11,3 +12,25 @@ public class JournalApplication {
 	}
 
 }
+//controller ---> service --> repository
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
